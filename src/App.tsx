@@ -48,7 +48,7 @@ export default function App() {
           HOLLA
         </div>
         <div className="bg-white text-black text-[10px] font-bold px-3 py-1 rounded-full uppercase tracking-tighter shadow-xl">
-          Ready to Deploy
+          Ready
         </div>
       </nav>
 
